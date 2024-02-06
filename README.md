@@ -1,2 +1,1 @@
-# myFirstCodePython-Ex001
- 
+# Aprendendo em Curso em Video.
